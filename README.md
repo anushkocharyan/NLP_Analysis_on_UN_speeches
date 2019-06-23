@@ -6,3 +6,5 @@ In this repository, I will explore the Generate Debate speeches from 1970 to 201
 1) Sentiment Analysis to determine which countries have delivered the greatest number of negative speeches throughout 50 years
 2) Computing TFIDF scores to find the most important words from each US General Debate session
 3) Generating a word cloud to show the most frequently occurring words in the history of the General Debate
+
+The data can be downloaded here: https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/0TJX8Y/PZUURT&version=5.0
