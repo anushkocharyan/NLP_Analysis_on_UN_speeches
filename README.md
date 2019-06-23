@@ -1,7 +1,7 @@
 # NLP_on_UN_speeches
 
-The General Debate of the United Nations General Assembly is an annual event in which leaders of all countries deliver statements on major issues in international politics. These speeches are of paramount importance as they represent a country's official perception of and stance on current political developments and may even presage new state policies and actions on the international arena.
-In this blog, I will explore the Generate Debate speeches from 1970 to 2018 via NLP analysis. Specifically, I will focus on these tasks:
+The General Debate of the United Nations General Assembly is an annual event in which leaders of all countries deliver statements on major issues in international politics. These speeches are of paramount importance as they represent a country's official perception of and stance on current political developments and may even presage new state policies and actions on the international arena. <br>
+In this repository, I will explore the Generate Debate speeches from 1970 to 2018 via NLP analysis. Specifically, I will focus on these tasks:
 
 1) Sentiment Analysis to determine which countries have delivered the greatest number of negative speeches throughout 50 years
 2) Computing TFIDF scores to find the most important words from each US General Debate session
