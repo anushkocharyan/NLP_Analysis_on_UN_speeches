@@ -1,7 +1,7 @@
 # NLP Analysis on UN Speeches
 
 
-In this repository, I explore the UN Generate Debate speeches from 1970 to 2018 via NLP analysis. <br>
+This repo contains the code I wrote to explore the UN Generate Debate speeches from 1970 to 2018 via NLP analysis. <br>
 
 The General Debate of the United Nations General Assembly is an annual event in which leaders of all countries deliver statements on major issues in international politics. These speeches are of paramount importance as they represent a country's official perception of and stance on current political developments and may even presage new state policies and actions on the international arena. 
 
