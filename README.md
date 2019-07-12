@@ -1,4 +1,4 @@
-# NLP_Analysis_on_UN_Speeches
+# NLP Analysis on UN Speeches
 
 
 In this repository, I will explore the UN Generate Debate speeches from 1970 to 2018 via NLP analysis. <br>
