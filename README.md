@@ -11,6 +11,4 @@ I will focus on the following NLP tasks:
 2) Computing TFIDF scores to find the most important words from each US General Debate session
 3) Generating a word cloud to show the most frequently occurring words in the history of the General Debate
 
-The data can be downloaded here: https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/0TJX8Y/PZUURT&version=5.0
-
-[here] (https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/0TJX8Y/PZUURT&version=5.0). 
+The data can be downloaded [here](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/0TJX8Y/PZUURT&version=5.0). 
